@@ -180,7 +180,7 @@
     "name": "Slackbot",
     "logo": "https://logos.composio.dev/api/slackbot",
     "category": "team chat",
-    "toolCount": 88,
+    "toolCount": 89,
     "triggerCount": 5
   },
   {
@@ -6664,6 +6664,14 @@
     "triggerCount": 0
   },
   {
+    "slug": "rize",
+    "name": "Rize",
+    "logo": "https://logos.composio.dev/api/rize",
+    "category": "productivity",
+    "toolCount": 8,
+    "triggerCount": 0
+  },
+  {
     "slug": "rkvst",
     "name": "Rkvst",
     "logo": "https://logos.composio.dev/api/rkvst",
@@ -7989,14 +7997,6 @@
     "logo": "https://logos.composio.dev/api/webscraping_ai",
     "category": "ai web scraping",
     "toolCount": 7,
-    "triggerCount": 0
-  },
-  {
-    "slug": "webvizio",
-    "name": "Webvizio",
-    "logo": "https://logos.composio.dev/api/webvizio",
-    "category": "project management",
-    "toolCount": 2,
     "triggerCount": 0
   }
 ]
